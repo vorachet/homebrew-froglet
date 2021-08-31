@@ -8,4 +8,4 @@ class Froglet < Formula
         bin.install "./froglet"
     end
 
-  endFormula
+end
