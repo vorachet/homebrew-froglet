@@ -1,8 +1,8 @@
 class Froglet < Formula
     homepage "https://github.com/vorachet/froglet"
-    url "https://github.com/vorachet/froglet/archive/refs/tags/0.3.tar.gz"
-    version "0.3"
-    sha256 "629a2425f01133561358d112550d9eb38a55cb472b19293f77e0344d75b28406"
+    url "https://github.com/vorachet/froglet/archive/refs/tags/0.4.tar.gz"
+    version "0.4"
+    sha256 "8081943032029451309711e6dd00887259dc41eeb902d0f97c9552a40d49e8fd"
   
     def install
         bin.install "./froglet"
